@@ -1,2 +1,2 @@
 # Dailyutilities
-Some utilities 
+Adaily utilities to make life easy  
